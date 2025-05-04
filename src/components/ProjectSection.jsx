@@ -5,7 +5,7 @@ const projects = [
         id: 1,
         title: "SaaS Landing Page",
         description: "A beautiful landing page app using CSS.",
-        image: "public/projects/project1.png",
+        image: "/projects/project1.png",
         tags: ["CSS"],
         demoUrl: "#",
         githubUrl: "#",
@@ -15,7 +15,7 @@ const projects = [
         title: "To-do List App",
         description:
             "A clean and minimal to-do list app for tasks.",
-        image: "public/projects/project2.png",
+        image: "/projects/project2.png",
         tags: ["JavaScript", "HTML", "CSS"],
         demoUrl: "#",
         githubUrl: "#",
