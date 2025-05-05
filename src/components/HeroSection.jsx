@@ -25,8 +25,8 @@ export const HeroSection = () => {
                 intuitive interfaces that blend design and performance.
                 </p>
                 <div className="pt-4 opacity:0 animate-fade-in-delay-4">
-                    <a href="#projects" className="cosmic-button">
-                        View My Work
+                    <a href="#skills" className="cosmic-button">
+                        View My Skills
                     </a>
                 </div>
             </div>
